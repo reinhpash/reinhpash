@@ -1,5 +1,5 @@
 # 💫 About Me:
-🕹️Unity game developer<br>https://burakpiskin.netlify.app/<br>I am developing my skills to create the games of my dreams.<br><br>🌱 I’m currently learning Dotnet and Angular<br>
+🕹️Unity game developer<br>https://burakpiskin.netlify.app/<br>I am developing my skills to create the games of my dreams.
 
 
 ## 🌐 Socials:
